@@ -16,7 +16,7 @@ Hi there, My name is Fry 👋
   <summary>You can find me at.....</summary>
   <p align="center">
 Torn City<br>
-    <a href="https://www.torn.com/2184575" ><img src="https://www.torn.com/sigs/3_2184575.png" /></a>
+    <a href="https://www.torn.com/2184575" ><img src="https://www.torn.com/signature.php?id=3&user=2184575" /></a>
   </p>
 </details>
 
