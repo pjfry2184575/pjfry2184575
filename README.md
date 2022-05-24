@@ -1,5 +1,5 @@
 <p align="center">
-Hi there, My name is Fry 👋
+Hi there,</br>My name is <strong>Fry</strong> </br>👋</br></br>
   <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/pjfry2184575?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a>
 </p>
 
@@ -7,9 +7,9 @@ Hi there, My name is Fry 👋
 
 
 <p align="center">
-<br>- 🧑🏼‍💻 I’m currently working on, Scruffy the Janitor bot</br>
-<br>- 📖 I’m learning & working with BDFD</br>
-<br>- 🙋🏼 Pronouns: He/Him</br>
+<br>• 🧑🏼‍💻  I’m currently working on:</br><strong>Scruffy the Janitor bot</strong></br>
+<br>• 📖 I’m learning & working with:</br><strong>BDFD</strong></br><strong>(Bot Designer for Discord)</strong></br>
+<br>• 🙋🏼 Pronouns: <strong>He/Him</strong></br>
 </p>
 </br>
 <details>
