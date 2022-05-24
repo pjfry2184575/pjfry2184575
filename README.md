@@ -1,6 +1,6 @@
 <p align="center">
 Hi there, My name is Fry 👋
-  <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/pjfry2184575?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a>
+  <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/pjfry2184575?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a>
 </p>
 
 ![IMG_20220411_181747_e](https://user-images.githubusercontent.com/66041755/169895662-a7cf3995-939c-42a8-945a-a9c5bf532304.png)
