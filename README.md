@@ -15,7 +15,7 @@ Hi there, My name is Fry 👋
 <details>
   <summary>📊 Stats</summary>
   <p align="center">
-<a href="https://github.com/pjfry2184575/github-readme-stats"><img alt="Fry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pjfry2184575&show_icons=true&count_private=true&theme=midnight-purple&react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/pjfry2184575/github-readme-stats"><img alt="Fry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pjfry2184575&show_icons=true&count_private=true&theme=midnight-purple&text_color=db4e25&react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/pjfry2184575/github-readme-stats"><img alt="Fry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pjfry2184575&langs_count=8&layout=compact&theme=midnight-purple&react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 </details>
