@@ -6,9 +6,9 @@ Hi there, My name is Fry 👋
 ![IMG_20220411_181747_e](https://user-images.githubusercontent.com/66041755/169895662-a7cf3995-939c-42a8-945a-a9c5bf532304.png)
 
 <p align="center">
-<br>- 🔭 I’m currently working on, `Scruffy the Janitor bot`</br>
-<br>- 🌱 I’m currently working with and learning, `BDFD`</br>
-<br>- 😄 Pronouns: `He/Him`</br>
+<br>- 🧑🏼‍💻 I’m currently working on, Scruffy the Janitor bot</br>
+<br>- 📖 I’m learning & working with BDFD</br>
+<br>- 🙋🏼 Pronouns: He/Him</br>
 </p>
 
 
