@@ -1,6 +1,6 @@
 <p align="center">
 Hi there,</br>My name is <strong>Fry</strong> </br>👋</br></br>
-  <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/pjfry2184575?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a>
+  <a href="https://github.com/pjfry2184575"> <img alt="followers" title="Give Me A Follow" src="https://img.shields.io/github/followers/pjfry2184575?color=db4e25&labelColor=420e84&style=for-the-badge&logo=github&label=Give%20Me%20A%20Follow" /></a></br>
 <a href='https://ko-fi.com/C1C79BID0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
