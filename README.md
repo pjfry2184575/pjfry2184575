@@ -8,7 +8,9 @@ Hi there,</br>My name is <strong>Fry</strong> </br>👋</br></br>
 
 
 <p align="center">
-<br>• 🧑🏼‍💻  I’m currently working on:</br><strong>Bending Unit 22</strong></br>
+<br>• 🧑🏼‍💻  I’m currently working on:</br><strong>Bending Unit 22
+&
+Bʅαƈƙ Lσƚυʂ</strong></br>
 <br>• 📖 I’m learning & working with:</br><strong>BDFD</strong></br><strong>(Bot Designer for Discord)</strong></br>
 <br>• 🙋🏼 Pronouns: <strong>He/Him</strong></br>
 </p>
