@@ -8,8 +8,8 @@ Hi there,</br>My name is <strong>Fry</strong> </br>👋</br></br>
 
 
 <p align="center">
-<br>• 🧑🏼‍💻  I’m currently working on:</br><strong>Bending Unit 22</strong></br><strong>&</strong></br><strong>Bʅαƈƙ Lσƚυʂ</strong></br>
-<br>• 📖 I’m learning & working with:</br><strong>BDFD</strong></br><strong>(Bot Designer for Discord)</strong></br>
+<br>• 🧑🏼‍💻  I’m currently working on:</br><strong>PlanEx,</strong><br><strong>PJ's World<br>&</strong></br><strong>Blarg in Minecraft</strong><br>
+<br>• 📖 I’m learning & working with:</br><strong>HTML, CSS, JS<br>&<br>BBTag<br>(Blargbot's language)</strong></br>
 <br>• 🙋🏼 Pronouns: <strong>He/Him</strong></br>
 </p>
 </br>
